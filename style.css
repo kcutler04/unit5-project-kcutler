@@ -1,0 +1,49 @@
+body {background-color:#A6F0E0;}
+
+h1, h2, h3
+{text-align:center;
+width:80%;
+margin:auto;
+background-color:F0C999;
+box-shadow: 5px 10px F0B1B9;
+}
+#wrapper{
+  width:80%;
+  margin:auto;
+  background-color:#F0B1B9;
+  box-shadow: 5px 10px 18px #A38185;
+}
+div{
+  margin:auto;
+  width:90%;
+}
+.itembox {
+  border-style:double;
+  border-radius:25px;
+  box-shadow: 10px 10px 5px #A38560;
+  background-color: #F0D88D;
+  color: #286A8A;
+  padding: 20px 25px;
+}
+.favorite {border-style:double;
+  border-radius:35px;
+  box-shadow: 10px 10px 5px #A38560;
+  background-color: #99F0AC;
+  color: #BD6F78;
+  padding: 20px 25px;}
+ 
+  nav ul{list-style-type:none;
+  margin:0;
+  padding:25px 5px 50px 5px;
+  background-color: #F2796A;}
+  
+  nav li {
+    float:left;}
+    
+      
+  nav li a {
+    display:block;
+    color:white;}
+      
+  */couldn't figure out why the display block wasn't working */
+ 
